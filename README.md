@@ -10,3 +10,5 @@ grc-contract-management-dashboard/
 /data: dataset used for analysis
 /dashboard: dashboard visuals
 /docs: case study explanation
+contratos_base.xlsx
+dashboard_mockup.png
